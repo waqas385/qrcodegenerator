@@ -1,14 +1,8 @@
 ###Project installation
 1. Install NPM (node)
-2. Create directory for project
-3. Install Snowpack
-    npm install --save-dev snowpack
-4. Run following commands
-    npm init
-    npm install --save-dev qrcode 
-    npx snowpack init
-5. Add "start": "snowpack dev" in package.json
-5. Move to project directory and run command
+2. Download source code
+3. Run following commands
+    npm install
     npm run start
 
 ##Reference link:

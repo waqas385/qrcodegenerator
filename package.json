@@ -13,6 +13,14 @@
     "start": "snowpack dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Waqas Ahmed",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waqas385/qrcodegenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waqas385/qrcodegenerator/issues"
+  },
+  "homepage": "https://github.com/waqas385/qrcodegenerator#readme"
 }
